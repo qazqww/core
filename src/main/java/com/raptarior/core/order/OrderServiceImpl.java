@@ -1,11 +1,6 @@
 package com.raptarior.core.order;
 
 import com.raptarior.core.discount.DiscountPolicy;
-<<<<<<< HEAD
-import com.raptarior.core.discount.FixDiscountPolicy;
-import com.raptarior.core.discount.RateDiscountPolicy;
-=======
->>>>>>> b6db32d (Add: AppConfig)
 import com.raptarior.core.member.Member;
 import com.raptarior.core.member.MemberRepository;
 
